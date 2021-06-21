@@ -1,5 +1,5 @@
-<h1 align="center">สวัดีครับ 👋,I'm ผมชื่ืไตเติ้ลนะครับ</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">สวัดีครับ 👋 ผมไตเติ้ลนะครับ</h1>
+<h3 align="center">From Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22p21s0045&label=Profile%20views&color=0e75b6&style=flat" alt="22p21s0045" /> </p>
 
