@@ -1,5 +1,6 @@
 <h1 align="center">สวัดีครับ 👋 ผมไตเติ้ลนะครับ</h1>
 <h3 align="center">From Thailand</h3>
+<h5 align="center">Now, I'm a student at Saengthong vittaya faculty of computer engineering.  I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22p21s0045&label=Profile%20views&color=0e75b6&style=flat" alt="22p21s0045" /> </p>
 
