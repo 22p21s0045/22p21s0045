@@ -15,3 +15,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=22p21s0045&show_icons=true&locale=en&layout=compact" alt="22p21s0045" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=22p21s0045&show_icons=true&theme=dracula)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
