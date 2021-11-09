@@ -1,19 +1,39 @@
 <h1 align="center">สวัดีครับ 👋 ผมไตเติ้ลนะครับ</h1>
 <h3 align="center">From Thailand</h3>
 <h5 align="center">Now, I'm a student at Saengthong vittaya faculty of computer engineering.  I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.</h5>
+<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=22p21s0045&label=Profile%20views&color=0e75b6&style=flat" alt="22p21s0045" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=22p21s0045&label=Profile%20views&color=0e75b6&style=flat" alt="22p21s0045" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/อัครวิทย์ สิทธิประการ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="อัครวิทย์ สิทธิประการ" height="30" width="40" /></a>
+
+<h3 align="center">Languages and Tools used:</h3>
+<p align="center"> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" width="100" height="40"/> 
+</a> <a href="https://nextjs.org/" target="nextjs"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="css3" width="100" height="40"/> </a> <a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="neltify" width="100" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> 
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="html5" width="100" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<br /> 
+<br /> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="120" height="40"/> </a> <a href="" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="mysql" width="100" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="opencv" width="100" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="python" width="100" height="40"/> </a> 
+<br /> 
+<br /> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="scikit_learn" width="100" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="tensorflow" width="100" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="tensorflow" width="100" height="40"/> </a> </p>
 </p>
+<h3 align="center">Other:</h3>
+<p align="center">
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="scikit_learn" width="100" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="scikit_learn" width="100" height="40"/> </a> 
+ <a href="" target="_blank"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="python" width="100" height="40"/> </a> 
+</p>
+<h3 align="left">Connect with me:</h3>
+<br/>
+<a href="https://www.facebook.com/profile.php?id=100004416134362" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="python" width="100" height="40"/> </a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br/>
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=22p21s0045&show_icons=true&locale=en&layout=compact" alt="22p21s0045" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=22p21s0045&show_icons=true&theme=dracula)
-
-
