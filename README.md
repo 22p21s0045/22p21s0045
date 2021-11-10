@@ -3,7 +3,7 @@
 <h5 align="center">Now, I'm a student at Saengthong vittaya faculty of computer engineering.  I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.</h5>
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=22p21s0045&label=Profile%20views&color=0e75b6&style=flat" alt="22p21s0045" /> </p>
-
+<img src="https://lh3.googleusercontent.com/dtny611Ah0f2pkhWWmNXI6I2uuGTtJI6qICGENAMmx81q-lQ_aEdHdZ_YYNl_NvTDXzmNDk30edLXXFbZtzKD3JZ5PqH3h6mL3bE8kxBaiBjPr0qECsr2u_2ySXVWrDHhYy6AUaZEdxIjJnnEyX4JL2V2jU2uJ-ckWGPg3f-EDfJlYFKD4AZUzgEnCcC7XYntn9ZTKXpBUfkd6daziMPna5SegkTeKiZLcVqT2wUaNV9tGPmYxnZCyyj7u2gtrQR41a5IsHT5ebFgCHfKWc0BKilKR9yDA5ZjwEot8R6x7CDhrcOQalOMb3jV4Uu1s5N_ahpyO-vNvL7TXK8Ym0bjU2e91HRclPuNNEdVvqCy4rSodqyg3RkXCSMsquqty6Avhn7AWn2W5ZBDc5k7CGWnRyYNZ3AI98UEu3rtjrXiBqGlVlAj05OFzhg4g5aP2rKdpcrEUn1vfGg8-LBAOKGpEY57-VNfWgsTuSrLBslWt5trb2u7QbEGwFMAZGZUsdREKQZy8HLlo3dJiBNh2R4QbGYsG0wwnRpTlxDeWj2DSlcac_hbF5_gDrGVxGR-_RuwrwFtFIBQ2mWAxxy6Jo7XyMBweThJVnbABX1IrEET1bMiChUqZpuWcjTpl1LsDESUAcjU-gAo8vDN-nC5chNMSan4ED0SFacIThoFrfEpRQdlQ_5nmhyOGkCoK3kQrmW_E0DNyI_KW9QzZJJ9bw35z0=w1600-h900-no?authuser=0"go=heroku&logoColor=white alt="html5" width="400" height="300" /> 
 
 
 <h3 align="center">Languages and Tools used:</h3>
