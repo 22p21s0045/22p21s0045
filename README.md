@@ -28,7 +28,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <br/>
-<a href="https://www.facebook.com/profile.php?id=100004416134362" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="python" width="100" height="40"/> </a> 
+<a href="https://www.facebook.com/profile.php?id=100004416134362" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="python" width="150" height="40"/> </a> 
 
 <br/>
 <p align="right">
