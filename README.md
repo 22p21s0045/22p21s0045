@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&color=%23000000&size=50&center=true&vCenter=true&lines=HI;I+'m+Akkarawit;Not+stop+learning;Love+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&color=%23000000&size=50&center=true&vCenter=true&lines=I+'m+Akkarawit;Not+stop+learning;Love+coding)](https://git.io/typing-svg)
 <br />
 <h1 align="center">สวัดีครับ 
 <img align = "center" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width ='45'>
@@ -43,4 +43,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=22p21s0045&show_icons=true&locale=en&layout=compact" alt="22p21s0045" />
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=22p21s0045&show_icons=true&locale=en&layout=compact" alt="22p21s0045" />
+</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=22p21s0045&show_icons=true&theme=dracula)
+
