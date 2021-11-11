@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&color=%23000000&size=25&center=true&vCenter=true&lines=HI;I+'m+Akkarawit;Not+stop+learning;Love+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&color=%23000000&size=50&center=true&vCenter=true&lines=HI;I+'m+Akkarawit;Not+stop+learning;Love+coding)](https://git.io/typing-svg)
 <br />
 <h1 align="center">สวัดีครับ 👋 ผมไตเติ้ลนะครับ</h1>
 <h3 align="center">From Thailand</h3>
