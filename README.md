@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&color=%23000000&size=50&center=true&vCenter=true&lines=HI;I+'m+Akkarawit;Not+stop+learning;Love+coding)](https://git.io/typing-svg)
 <br />
-<h1 align="center">สวัดีครับ 👋 ผมไตเติ้ลนะครับ</h1>
+<h1 align="center">สวัดีครับ 
+<img align = "center" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width ='45'>
+ผมไตเติ้ลนะครับ</h1>
+
 <h3 align="center">From Thailand</h3>
 <h5 align="center">Now, I'm a student at Saengthong vittaya faculty of computer engineering.  I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.</h5>
 <br />
