@@ -38,10 +38,9 @@
 <br/>
 <p align="right">
 <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="300" height="250" />
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=22p21s0045&show_icons=true&locale=en&layout=compact" alt="22p21s0045" />
 </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=22p21s0045&show_icons=true&locale=en&layout=compact" alt="22p21s0045" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=22p21s0045&show_icons=true&theme=dracula)
