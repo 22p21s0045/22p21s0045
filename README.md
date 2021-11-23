@@ -8,7 +8,7 @@
 <h5 align="center">Now, I'm a student at Saengthong vittaya faculty of computer engineering.  I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.</h5>
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=22p21s0045&label=Profile%20views&color=0e75b6&style=flat" alt="22p21s0045" /> </p>
-<img align ="right"src="https://www.img.in.th/images/1cc495f4a3f13c26981d476c3cbe592e.gif"go=heroku&logoColor=white alt="html5" width="300" height="200" /> 
+<img align ="right"src="https://media3.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif"go=heroku&logoColor=white alt="html5" width="300" height="200" /> 
 
 
 <h3 align="center">Languages and Tools used:</h3>
