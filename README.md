@@ -39,7 +39,7 @@
 <p align="right">
 <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="300" height="250" />
 
-<a href="https://app.daily.dev/title20306"><img src="https://api.daily.dev/devcards/4aefc79fd9d240de9d72693a5c1ba3f4.png?r=m3p" width="400" height="250" alt="Akkarawit's Dev Card"/></a>
+<a href="https://app.daily.dev/title20306"><img src="https://api.daily.dev/devcards/4aefc79fd9d240de9d72693a5c1ba3f4.png?r=m3p" width="400"  alt="Akkarawit's Dev Card"/></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=22p21s0045&show_icons=true&locale=en&layout=compact" alt="22p21s0045" />
 </p>
 
