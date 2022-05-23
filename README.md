@@ -5,7 +5,7 @@
 Now, I'm a student at Saengthong vittaya faculty of computer engineering. I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.
 
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning web3,react</p>
 <p>I regularly write articles on <a href="https://akkarawitfolio.me/">this</a></p>
 
@@ -20,7 +20,7 @@ Now, I'm a student at Saengthong vittaya faculty of computer engineering. I’m 
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px">
 
 </p>
-<img src="https://raw.githubusercontent.com/22p21s0045/terminal-template-me/f841e54ee1552e4478a805e109dc8314c039b5e1/github_stats.svg?token=ARDEUEMUOR7YPR6JL2FOFDLCRMOME" style="margin-bottom: 4px;" height="350px">
+<img src="https://raw.githubusercontent.com/22p21s0045/terminal-template-me/f841e54ee1552e4478a805e109dc8314c039b5e1/github_stats.svg" style="margin-bottom: 4px;" height="350px">
 
 ## 👥 Connect With Me
 <p>
