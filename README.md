@@ -5,7 +5,7 @@
 Now, I'm a student at Saengthong vittaya faculty of computer engineering. I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.
 
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning web3,react</p>
 <p>I regularly write articles on <a href="https://akkarawitfolio.me/">this</a></p>
 
