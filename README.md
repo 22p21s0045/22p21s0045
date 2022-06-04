@@ -7,7 +7,9 @@ Now, I'm a student at Saengthong vittaya faculty of computer engineering. I’m 
 
 ## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning web3,react</p>
-<p>I regularly write articles on <a href="https://akkarawitfolio.me/">this</a></p>
+<p>I regularly write articles on <a href="https://akkarawitfolio.me/">this</a>
+<img src="https://www.img.in.th/images/1c482d0bacec960042699a158d18c73e.gif" style="margin-bottom: 100px;" height="100px">
+</p>
 
 ## 💻 Skills
 <p>
@@ -18,7 +20,7 @@ Now, I'm a student at Saengthong vittaya faculty of computer engineering. I’m 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px">
-
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 <img src="https://github.com/22p21s0045/terminal-template-me/blob/master/github_stats.svg" style="margin-bottom: 4px;" height="350px">
 
