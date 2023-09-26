@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://www.img.in.th/images/5c58edf0caf0655832be7261141dad5c.png" alt="my banner">
+<img width="100%" src="/Github_badge.png" alt="my banner">
 
 Now, I'm a student at Saengthong vittaya faculty of computer engineering. I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.
 
@@ -8,7 +8,7 @@ Now, I'm a student at Saengthong vittaya faculty of computer engineering. I’m 
 ## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning web3,react</p>
 <p>I regularly write articles on <a href="https://akkarawitfolio.me/">this</a>
-<img src="https://www.img.in.th/images/1c482d0bacec960042699a158d18c73e.gif" style="margin-bottom: 100px;" height="100px">
+<img src="/girl.gif" style="margin-bottom: 100px;" height="100px">
 </p>
 
 ## 💻 Skills
