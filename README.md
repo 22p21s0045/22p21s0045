@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="/Github_badge.png" alt="my banner">
+<img width="100%" src="/Github_badge_2.png" alt="my banner">
 
 Now, I'm a student at Saengthong vittaya faculty of computer engineering. I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.
 
