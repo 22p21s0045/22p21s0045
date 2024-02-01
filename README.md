@@ -44,6 +44,11 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
     <img src="https://skillicons.dev/icons?i=docker,azure" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,postman" />
+  </a>
+</p>
 <img src="https://github.com/22p21s0045/terminal-template-me/blob/master/github_stats.svg" style="margin-bottom: 4px;" height="350px">
 
 ## 👥 Connect With Me
