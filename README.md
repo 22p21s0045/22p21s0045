@@ -1,16 +1,25 @@
 
 
 <img width="100%" src="/pattern.png" alt="my banner">
+<div align ="center">
+Now, I'm a student at KMUTT faculty of Information technology. I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.
+</div>
 
-Now, I'm a student at Saengthong vittaya faculty of computer engineering. I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.
 
 
-## 💫 Little Bit More About Me
-<p>🌱 I'm currently learning web3,react</p>
-<p>I regularly write articles on <a href="https://akkarawitfolio.me/">this</a>
 
-## 💻 Skills
-<p>
+<h1 align ="center">💫 Little Bit More About Me</h1>
+<div align ="center" >
+<p>🌱 I'm currently learning vuejs and Frontend development</p>
+<p>I regularly write articles on <a href="https://medium.com/@monkeytitle_42258">Medium</a>
+
+</div>
+
+<h1 align ="center">
+💻 Skills
+</h1>
+
+<p align ="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
