@@ -49,6 +49,7 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
     <img src="https://skillicons.dev/icons?i=idea,postman" />
   </a>
 </p>
+<a href="https://app.daily.dev/title20306"><img src="https://api.daily.dev/devcards/v2/7pSF7qP5kdwZ74yJqnLUX.png?type=default&r=kim" width="356" alt="Akkarawit's Dev Card"/></a>
 <img align="center" src="https://github.com/22p21s0045/terminal-template-me/blob/master/github_stats.svg" style="margin-bottom: 4px;" height="350px">
 
 ## 👥 Connect With Me
