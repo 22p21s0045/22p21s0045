@@ -23,7 +23,7 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
 </h1>
 
 <div style="display: flex; flex-direction: row;">
-<div>
+<div style="width: 50%;">
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=vue,react,javascript,tailwind" />
@@ -51,7 +51,7 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
 </p>
 
   </div>
-  <div>
+  <div style="width: 50%;">
     <a href="https://app.daily.dev/title20306"><img src="https://api.daily.dev/devcards/v2/7pSF7qP5kdwZ74yJqnLUX.png?type=default&r=kim" width="356" alt="Akkarawit's Dev Card"/></a>
 
   </div>
