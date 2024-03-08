@@ -23,32 +23,32 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
 </h1>
 
 <div style="display: flex; flex-direction: row;">
-  <div>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vue,react,javascript,tailwind" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,java,nodejs,express" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,supabase" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,azure" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=idea,postman" />
-      </a>
-    </p>
+<div>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vue,react,javascript,tailwind" />
+</a>
+</p>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=spring,java,nodejs,express" />
+</a>
+</p>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</a>
+</p>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,azure" />
+</a>
+</p>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=idea,postman" />
+</a>
+</p>
 
   </div>
   <div>
