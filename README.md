@@ -22,14 +22,13 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
 💻 Skills
 </h1>
 
-<div style="display: flex; flex-direction: row;">
-
-<div style="width: 50%;">
+<div style="display: flex;">
+<div style="width: 50%; ">
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=vue,react,javascript,tailwind" />
 </a>
-</p>
+</p> 
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=spring,java,nodejs,express" />
