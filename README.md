@@ -22,35 +22,42 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
 💻 Skills
 </h1>
 
-<p align ="center">
+<div style="display: flex; flex-direction: row;">
+  <div>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vue,react,javascript,tailwind" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring,java,nodejs,express" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,azure" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=idea,postman" />
+      </a>
+    </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,javascript,tailwind" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,nodejs,express" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,supabase" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,postman" />
-  </a>
-</p>
-<a href="https://app.daily.dev/title20306"><img src="https://api.daily.dev/devcards/v2/7pSF7qP5kdwZ74yJqnLUX.png?type=default&r=kim" width="356" alt="Akkarawit's Dev Card"/></a>
+  </div>
+  <a href="https://app.daily.dev/title20306"><img src="https://api.daily.dev/devcards/v2/7pSF7qP5kdwZ74yJqnLUX.png?type=default&r=kim" width="356" alt="Akkarawit's Dev Card"/></a>
+ 
+  
+</div>
 <img align="center" src="https://github.com/22p21s0045/terminal-template-me/blob/master/github_stats.svg" style="margin-bottom: 4px;" height="350px">
+
+
 
 ## 👥 Connect With Me
 <p>
