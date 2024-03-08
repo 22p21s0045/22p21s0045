@@ -23,6 +23,7 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
 </h1>
 
 <div style="display: flex; flex-direction: row;">
+
 <div style="width: 50%;">
 <p align="center">
 <a href="https://skillicons.dev">
