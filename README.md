@@ -41,6 +41,11 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
       <img src="https://skillicons.dev/icons?i=idea,postman" />
       </a>
       </p>
+      <p align="center">
+        <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=obsidian,ubuntu" />
+        </a>
+        </p>
     </td>
     <td>
       <div >
