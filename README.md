@@ -66,7 +66,10 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
  
   
 </div>
-<img align="center" src="https://github.com/22p21s0045/terminal-template-me/blob/master/github_stats.svg" style="margin-bottom: 4px;" height="350px">
+<div align="center" width="100%">
+  <img align="center" src="https://github.com/22p21s0045/terminal-template-me/blob/master/github_stats.svg" style="margin-bottom: 4px;" height="350px">
+
+</div>
 
 ## 👥 Connect With Me
 
