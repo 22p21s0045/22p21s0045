@@ -22,7 +22,7 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
 💻 Skills
 </h1>
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction:row; justify-content:space-around; ">
 <div style="width: 50%; ">
 <p align="center">
 <a href="https://skillicons.dev">
