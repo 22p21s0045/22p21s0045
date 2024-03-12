@@ -13,7 +13,10 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
 <h1 align ="center">
 💻 Skills
 </h1>
-<table style="width: 100%;">
+<div align="center" width="100%">
+
+
+<table style="width: 100%; ">
   <tr>
     <td>
       <p align="center">
@@ -54,6 +57,7 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
    
   </tr>
 </table>
+</div>
 <div style="display: flex; flex-direction:row; justify-content:space-around; ">
 <div style="width: 50%; ">
 
