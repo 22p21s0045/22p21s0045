@@ -1,4 +1,4 @@
-<img width="100%" src="./ticket.png" alt="my banner">
+<img width="100%" src="./ticket.svg" alt="my banner">
 <div align ="center">
 Now, I'm a student at KMUTT faculty of Information technology. I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.
 </div>
