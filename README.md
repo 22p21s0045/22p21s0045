@@ -11,12 +11,15 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
 </div>
 
 <h1 align ="center">
-💻 Skills
 </h1>
 <div align="center" width="100%">
 
+<img src="./tech-stack.svg">
 
-<table style="width: 100%; ">
+
+
+
+<!-- <table style="width: 100%; ">
   <tr>
     <td>
       <p align="center">
@@ -55,7 +58,7 @@ Now, I'm a student at KMUTT faculty of Information technology. I’m currently l
       <a href="https://app.daily.dev/title20306"><img src="https://api.daily.dev/devcards/v2/7pSF7qP5kdwZ74yJqnLUX.png?type=default&r=kim" width="356" alt="Akkarawit's Dev Card"/></a>
   
    
-  </tr>
+  </tr> -->
 </table>
 </div>
 <div style="display: flex; flex-direction:row; justify-content:space-around; ">
