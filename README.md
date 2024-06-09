@@ -1,11 +1,11 @@
 <img width="100%" src="./ticket.svg" alt="my banner">
-<div align ="center">
-Now, I'm a student at KMUTT faculty of Information technology. I’m currently learning Data sci. I'm interested in Machine learning, AI ,Robotics ,Web fronted end and Business.
+<div>
+Now I am IT student at KMUTT with a strong passion for frontend development, design, and animation. I am also keenly interested in the infrastructure of applications. 
 </div>
 
 <h1 align ="center">💫 Little Bit More About Me</h1>
 <div align ="center" >
-<p>🌱 I'm currently learning vuejs and Frontend development</p>
+<!-- <p>🌱 I'm currently learning vuejs and Frontend development</p> -->
 <p>I regularly write articles on <a href="https://medium.com/@monkeytitle_42258">Medium</a>
 
 </div>
