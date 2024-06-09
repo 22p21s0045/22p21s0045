@@ -69,7 +69,7 @@ Now I am IT student at KMUTT with a strong passion for frontend development, des
  
   
 </div>
-<table style="width: 100%; margin-top:30px">
+<table style="width: 100%; margin-top:40px">
   <tr>
     <td>
     <img align="center" src="https://github.com/22p21s0045/terminal-template-me/blob/master/github_stats.svg" style="margin-bottom: 4px;" height="350px">
