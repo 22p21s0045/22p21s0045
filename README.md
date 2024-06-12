@@ -11,11 +11,7 @@ Now I am IT student at KMUTT with a strong passion for frontend development, des
 </div>
 
 
-<div align="center">
-<a href="https://www.credly.com/badges/2a33853f-6332-4269-8443-6b304c98c0ba/public_url">
-  <img src="https://img2.pic.in.th/pic/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate">
-</a>
-</div>
+
 
 
 <h1 align ="center">
@@ -24,50 +20,11 @@ Now I am IT student at KMUTT with a strong passion for frontend development, des
 
 <img src="./tech-stack.svg">
 
-
-
-
-<!-- <table style="width: 100%; ">
-  <tr>
-    <td>
-      <p align="center">
-      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vue,react,javascript,tailwind" />
-      </a>
-      </p> 
-      <p align="center">
-      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,java,nodejs,express" />
-      </a>
-      </p>
-      <p align="center">
-      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,supabase" />
-      </a>
-      </p>
-      <p align="center">
-      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,azure" />
-      </a>
-      </p>
-      <p align="center">
-      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=idea,postman" />
-      </a>
-      </p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=obsidian,ubuntu" />
-        </a>
-        </p>
-    </td>
-    <td>
-      <div >
-      <a href="https://app.daily.dev/title20306"><img src="https://api.daily.dev/devcards/v2/7pSF7qP5kdwZ74yJqnLUX.png?type=default&r=kim" width="356" alt="Akkarawit's Dev Card"/></a>
-  
-   
-  </tr> -->
-</table>
+</div>
+<div align="center">
+<a href="https://www.credly.com/badges/2a33853f-6332-4269-8443-6b304c98c0ba/public_url">
+  <img src="https://img2.pic.in.th/pic/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate">
+</a>
 </div>
 <div style="display: flex; flex-direction:row; justify-content:space-around; ">
 <div style="width: 50%; ">
