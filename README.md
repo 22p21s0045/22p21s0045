@@ -10,6 +10,8 @@ Now I am IT student at KMUTT with a strong passion for frontend development, des
 
 </div>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2a33853f-6332-4269-8443-6b304c98c0ba" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h1 align ="center">
 </h1>
 <div align="center" width="100%">
