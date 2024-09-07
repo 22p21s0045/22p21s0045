@@ -26,7 +26,7 @@ Now I am IT student at KMUTT with a strong passion for frontend development, des
   <img src="https://img2.pic.in.th/pic/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate">
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/th-th/AKKARAWITSITTIPRAKAN-7278/9246D619E65A4F81?sharingId=18858A8F98AC5635">
-  <img  src="https://img2.pic.in.th/pic/image-1-13b1adbbb11446a82.th.png" alt="AZ-900 Certificate">
+  <img width="250px" src="https://img2.pic.in.th/pic/Frame-18f1ad950c770e6ef.th.png" alt="AZ-900 Certificate">
 </a>
 </div>
 <div style="display: flex; flex-direction:row; justify-content:space-around; ">
