@@ -26,7 +26,7 @@ Now I am IT student at KMUTT with a strong passion for frontend development, des
   <img src="https://img2.pic.in.th/pic/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate">
 </a>
 <a href="https://www.credly.com/badges/2a33853f-6332-4269-8443-6b304c98c0ba/public_url">
-  <img width="180px" src="https://img2.pic.in.th/pic/image-1cf4286bf46c06830.th.png" alt="AZ-900 Certificate">
+  <img width="180px" src="https://img5.pic.in.th/file/secure-sv1/image24bde7692097f710.th.png" alt="AZ-900 Certificate">
 </a>
 </div>
 <div style="display: flex; flex-direction:row; justify-content:space-around; ">
